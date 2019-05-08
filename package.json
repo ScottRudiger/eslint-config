@@ -4,7 +4,8 @@
   "description": "An eslint config with my subjective tastes, built atop eslint-config-airbnb-base.",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "rules"
   ],
   "repository": {
     "type": "git",
