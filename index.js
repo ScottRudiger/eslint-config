@@ -69,5 +69,6 @@ module.exports = {
     'no-confusing-arrow': 'off',
     'consistent-return': 'off',
     'nonblock-statement-body-position': ['error', 'any'],
+    'lines-between-class-members': 'off',
   },
 };
