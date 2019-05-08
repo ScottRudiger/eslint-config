@@ -17,7 +17,6 @@ module.exports = {
     },
   }],
   rules: {
-    "new-parens": "off",
     'no-restricted-syntax': [
       'error',
       'ForInStatement',
