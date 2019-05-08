@@ -33,6 +33,7 @@ module.exports = {
       consistent: true,
     }],
     'import/no-extraneous-dependencies': ['error', {DevDependencies: true}],
+    'import/no-cycle': 'off',
     'require-jsdoc': ['error'],
     'valid-jsdoc': ['error', {
       prefer: {
