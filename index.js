@@ -63,6 +63,13 @@ module.exports = {
         '>>>',
       ],
     }],
+    'operator-linebreak': ['error', 'after', {
+      overrides: {
+        '=': 'none',
+        '?': 'before',
+        ':': 'before',
+      },
+    }],
     'no-plusplus': 'off',
     'no-shadow': 'off',
     'no-unused-expressions': 'off',
