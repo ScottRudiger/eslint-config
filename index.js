@@ -3,6 +3,9 @@ module.exports = {
     node: true,
     mocha: true,
   },
+  parserOptions: {
+    ecmaVersion: 2018,
+  },
   extends: ['airbnb-base'],
   overrides: [{
     files: ['*.test.js', '*.spec.js'],
