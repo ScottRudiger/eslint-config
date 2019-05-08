@@ -1,0 +1,36 @@
+{
+  "name": "@scottrudiger/eslint-config",
+  "version": "0.1.0",
+  "description": "An eslint config with my subjective tastes, built atop eslint-config-airbnb-base.",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottRudiger/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "eslint-config",
+    "eslint-config-airbnb",
+    "eslint-config-airbnb-base",
+    "airbnb",
+    "airbnb-base",
+    "@scottrudiger/eslint-config",
+    "@scottrudiger",
+    "Scott Rudiger",
+    "Scott",
+    "Rudiger"
+  ],
+  "author": "Scott Rudiger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScottRudiger/eslint-config/issues"
+  },
+  "homepage": "https://github.com/ScottRudiger/eslint-config#readme",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^13.1.0"
+  }
+}
