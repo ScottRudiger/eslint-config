@@ -1,6 +1,6 @@
 {
   "name": "@scottrudiger/eslint-config",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "description": "An eslint config with my subjective tastes, built atop eslint-config-airbnb-base.",
   "main": "index.js",
   "files": [
