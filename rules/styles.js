@@ -5,7 +5,7 @@ module.exports = {
     multiline: true,
     consistent: true,
   }],
-  'max-len': ['error', 100, 2, {
+  'max-len': ['error', 111, 2, {
     ignoreUrls: true,
     ignoreComments: true,
     ignoreRegExpLiterals: true,
