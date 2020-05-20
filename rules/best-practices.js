@@ -6,6 +6,7 @@ module.exports = {
     'WithStatement',
   ],
   'no-param-reassign': ['error', {props: false}],
+  'no-cond-assign': ['error', 'except-parens'],
   'no-bitwise': ['error', {
     int32Hint: true,
     allow: [
